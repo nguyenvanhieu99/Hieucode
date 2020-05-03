@@ -1,8 +1,8 @@
-title: Stack Problems
+title: Ngăn xếp vến đề
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: Nguyễn Văn Hiếu
+github: https://github.com/nguyenvanhieu99
+about: I'm Programmer for javascript. I've made quite a few web apps, especially on js.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -16,7 +16,7 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/vanhieu.cf"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
@@ -24,21 +24,21 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/nguyenvanhieu99"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: Về tác giả
       url: /about/
-    - text: My Projects
+    - text: Dự án của tôi
       url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://nguyenvanhieu99.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
