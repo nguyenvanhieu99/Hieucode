@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "How to make a notification when terminal process is complete"
+title:  "Xin chào mọi người  How to make a notification when terminal process is complete"
 date:   2020-04-07 14:32:04 +0700
 categories: [bash, linux, ubuntu]
 ---
+
+
+
+test thử font chữ và nội dùng file post có bị thay đổi không người người
 
 I have started a long process through a terminal. Is it possible to make the Ubuntu terminal make a sound once the process is complete?
 This way, I don’t need to keep checking, but will instead be notified through a sound or another notification.
