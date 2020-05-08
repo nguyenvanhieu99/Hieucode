@@ -9,7 +9,7 @@ categories: [bash,powershell]
 
 "là một framework quản lý cấu hình và tự động hóa mạnh mẽ cho phép quản trị viên hệ thống làm việc hiệu quả hơn bằng cách tự động hóa các tác vụ lặp đi lặp lại một cách tẻ nhạt."
 
-và đây là ảnh :![::](.\static\img\powshell1.png)
+và đây là ảnh :![::](\static\img\powshell1.png)
 
 cách bật :**window** rồi gõ powershell  chọn nó rồi mở thôi
 
