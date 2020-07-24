@@ -37,6 +37,8 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: Chủ đề
+      url: /catalog
 
 url: "https://nguyenvanhieu99.github.io"
 baseurl: ""
